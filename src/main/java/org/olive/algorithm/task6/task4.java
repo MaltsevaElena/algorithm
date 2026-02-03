@@ -1,4 +1,4 @@
-package org.olive.algorithm.task4;
+package org.olive.algorithm.task6;
 
 import java.util.*;
 

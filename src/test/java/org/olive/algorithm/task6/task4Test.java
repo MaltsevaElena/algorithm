@@ -1,12 +1,12 @@
-package org.olive.algorithm.task4;
+package org.olive.algorithm.task6;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.olive.algorithm.task4.task4.getEdge;
-import static org.olive.algorithm.task4.task4.put;
+import static org.olive.algorithm.task6.task4.getEdge;
+import static org.olive.algorithm.task6.task4.put;
 
 /**
  * task4Test.
